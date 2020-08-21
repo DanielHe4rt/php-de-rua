@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78312fbe-3b19-4371-a390-4696347b80b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gQSMAX2xKRd8BfcDYeKNnjhbIB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78312fbe-3b19-4371-a390-4696347b80b9" name="Default Changelist" comment="" />
+      <created>1598045272701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598045272701</updated>
+      <workItem from="1598045275848" duration="5285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2222" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598048247475">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2222" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1598048247475" />
+    <state x="2403" y="256" width="711" height="593" key="NewPhpClassDialog" timestamp="1598050527148">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2403" y="256" width="711" height="593" key="NewPhpClassDialog/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1598050527148" />
+    <state x="2559" y="474" width="399" height="157" key="NewPhpFileDialog" timestamp="1598050068123">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2559" y="474" width="399" height="157" key="NewPhpFileDialog/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1598050068123" />
+    <state x="2253" y="188" key="SettingsEditor" timestamp="1598046357576">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2253" y="188" key="SettingsEditor/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1598046357576" />
+    <state x="2427" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1598048366120">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2427" y="259" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1598048366120" />
+  </component>
+</project>
